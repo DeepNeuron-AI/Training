@@ -14,7 +14,7 @@ The exercises can either be completed individually or in a small group (highly r
 
 The first 3 workshops are dedicated to basic concepts, with 1 advanced and 1 final applied session afterwards:
 1. Introduction to Deep Learning with FastAI - [slides](Workshops/Workshop 1 - Intro to Deep Learning/Introduction to Deep Learning.pptx) - [tutorial](https://colab.research.google.com/github/DeepNeuron-AI/Training/blob/master/Workshops/Workshop%201%20-%20Intro%20to%20Deep%20Learning/FastAI%20Tutorial.ipynb)
-2. Introduction to PyTorch and PyTorch Lightning - [slides](Workshops/Workshop 2 - Intro to PyTorch/Introduction to PyTorch.pptx) - [tutorial](https://colab.research.google.com/github/DeepNeuron-AI/Training/blob/master/Workshops/Workshop 2 - Intro to PyTorch/PyTorch Lightning Tutorial)
+2. Introduction to PyTorch and PyTorch Lightning - [slides](Workshops/Workshop 2 - Intro to PyTorch/Introduction to PyTorch.pptx) - [tutorial](https://colab.research.google.com/github/DeepNeuron-AI/Training/blob/master/Workshops/Workshop%201%20-%20Intro%20to%20Deep%20Learning/FastAI%20Tutorial.ipynb)
 3. Custom PyTorch Models - slides - tutorial
 4. Advanced Layers - slides - tutorial
 5. LSTSMs as an Application of Deep Learning - slides - tutorial
